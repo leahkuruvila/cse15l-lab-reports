@@ -1,1 +1,3 @@
-![a screenshot from last weeks lab](screenshotFromLastWeek.png)
+
+
+![Image](screenshotFromLastWeek.png)
