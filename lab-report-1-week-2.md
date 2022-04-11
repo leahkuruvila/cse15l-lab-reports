@@ -7,7 +7,7 @@
     * when you open vs code it should look like this :
     ![Image](vscode.png)
 
-<br/><br/>
+
 
 2. **Remotely Connecting**
     * first look up your course-specific account
@@ -17,7 +17,7 @@
     * it should look like this once you press enter on the ssh command:
 ![Image](screenshotFromLastWeek.png)
 
-<br/><br/>
+
 
 3. **Trying Some Commands:**
     * here are a list of commands you can try:
@@ -34,7 +34,7 @@
 
         ![Image](ls.png)
 
-<br/><br/>        
+      
 
 4. **Moving Files with scp**
     * the command scp allows us to copy files back and forth between the computers
@@ -51,7 +51,7 @@
     ![Image](copying.png)
 
 
-<br/><br/>    
+  
  
 
  5. **Setting an SSH Key**
@@ -88,7 +88,6 @@
     ![Image](login.png)
 
 
-<br/><br/>
 
 
 6. **Optimizing Remote Running**
