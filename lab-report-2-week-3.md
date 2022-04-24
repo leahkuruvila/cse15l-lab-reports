@@ -10,6 +10,7 @@
 ## code change 1: infinite loop due to extra line
 
     screenshot of the code change diff from Github: 
+
 ![Image](file1.png)
 
 
@@ -27,6 +28,7 @@ It is necesary that I add lines 18-20 to ensure that the program knows to stop l
 ## code change 2: adding text in paranthesis without brackets in front it of it as a link to the array
 
     screenshot of the code change diff from Github: 
+
 ![Image](file6.png)
 
 [Link to the test file for a failure-inducing input that prompted me to make that change](https://github.com/leahkuruvila/markdown-parser/blob/main/test-file5.md)
@@ -42,11 +44,13 @@ In test-file5.md, there was text within a set of parathesis, however, there were
 ## code change 3: an infinite loop caused by an added line with a singular open bracket
 
     screenshot of the code change diff from Github: 
+
 ![Image](file8.png)
 
 [Link to the test file for a failure-inducing input that prompted me to make that change](https://github.com/leahkuruvila/markdown-parser/blob/main/test-file8.md)
 
-    the output of running the file at the command line for the version where it was failing: 
+    the output of running the file at the command line for the version where it was failing:
+     
 ![Image](output8.png)
 
 **Description of the relationship between the bug, the symptom, and the failure-inducing input.**
