@@ -9,7 +9,7 @@
 
 ## code change 1: infinite loop due to extra line
 
-screenshot of the code change diff from Github: 
+    screenshot of the code change diff from Github: 
 
 ![Image](file1.png)
 
@@ -27,7 +27,7 @@ It is necesary that I add lines 18-20 to ensure that the program knows to stop l
 
 ## code change 2: adding text in paranthesis without brackets in front it of it as a link to the array
 
-screenshot of the code change diff from Github: 
+    screenshot of the code change diff from Github: 
 
 ![Image](file6.png)
 
@@ -43,7 +43,7 @@ In test-file5.md, there was text within a set of parathesis, however, there were
 
 ## code change 3: an infinite loop caused by an added line with a singular open bracket
 
-screenshot of the code change diff from Github: 
+    screenshot of the code change diff from Github: 
 
 ![Image](file8.png)
 
