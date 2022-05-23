@@ -20,6 +20,7 @@
     - a.com
     - a.com(())
     - example.com
+3. snippet 3
 ![Image](snip3.png)
 - There are three valid links as indicated by the blue text:
 
